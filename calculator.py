@@ -13,4 +13,10 @@ def divide(a, b):
 if __name__ == "__main__":
     print("Calculator Application Running")
     print("10 + 5 =", add(10, 5))
+
     print("Addition feature updated")
+
+print("Division bug fixed")
+
+    
+
