@@ -18,5 +18,10 @@ if __name__ == "__main__":
 
 print("Division bug fixed")
 
-    
+
+# Calculator operations
+# Addition function
+def add(a, b):
+    return a + b
+
 
