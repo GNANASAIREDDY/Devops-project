@@ -22,5 +22,9 @@ A merge conflict was created and manually resolved in calculator.py.
 
 GitHub Actions pipeline automatically runs tests on every push.
 
+\## Dependencies
+
+\- pytest for automated testing
+
 
 
