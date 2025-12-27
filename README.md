@@ -10,5 +10,9 @@ This project demonstrates an intermediate DevOps workflow using Git, GitHub, and
 
 \- Practice merge conflict resolution
 
+\## Branching Strategy
+
+Feature, bugfix, testing, and experimental branches were used.
+
 
 
