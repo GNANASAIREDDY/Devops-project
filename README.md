@@ -18,5 +18,9 @@ Feature, bugfix, testing, and experimental branches were used.
 
 A merge conflict was created and manually resolved in calculator.py.
 
+\## CI Pipeline
+
+GitHub Actions pipeline automatically runs tests on every push.
+
 
 
