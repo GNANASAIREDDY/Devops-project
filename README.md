@@ -7,6 +7,8 @@ This project demonstrates an intermediate DevOps workflow using Git, GitHub, and
 \## Objectives
 
 \- Understand Git branching and merging
+<img width="830" height="580" alt="image" src="https://github.com/user-attachments/assets/1c4e8cb3-f78c-4cb2-a123-4cf9e460e113" />
+
 
 \- Implement CI using GitHub Actions
 
@@ -21,6 +23,8 @@ Feature, bugfix, testing, and experimental branches were used.
 A merge conflict was created and manually resolved in calculator.py.
 
 \## CI Pipeline
+![Uploading image.png…]()
+
 
 GitHub Actions pipeline automatically runs tests on every push.
 
