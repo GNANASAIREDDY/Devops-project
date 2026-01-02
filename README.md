@@ -23,7 +23,7 @@ Feature, bugfix, testing, and experimental branches were used.
 A merge conflict was created and manually resolved in calculator.py.
 
 \## CI Pipeline
-![Uploading image.png…]()
+<img width="959" height="699" alt="image" src="https://github.com/user-attachments/assets/96350d94-0bf5-4608-9be8-da0d0c01718d" />
 
 
 GitHub Actions pipeline automatically runs tests on every push.
@@ -31,6 +31,7 @@ GitHub Actions pipeline automatically runs tests on every push.
 \## Dependencies
 
 \- pytest for automated testing
+![Uploading image.png…]()
 
 
 
