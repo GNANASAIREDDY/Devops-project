@@ -38,6 +38,14 @@ this project is done by using:
 3) Github Actions
 4) Python and pytest
 
+Workflow for the project
+1. Code development in branches
+2. Commit & push to GitHub
+3. CI pipeline triggered
+4. Tests executed automatically
+
+
+
 
 
 
