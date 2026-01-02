@@ -31,7 +31,7 @@ GitHub Actions pipeline automatically runs tests on every push.
 \## Dependencies
 
 \- pytest for automated testing
-<img width="652" height="331" alt="image" src="https://github.com/user-attachments/assets/0554088f-ef34-47cb-b2d9-1ff9ac648e43" />
+
 this project is done by using:
 1) Git and GitBash
 2) Github
