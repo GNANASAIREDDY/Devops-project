@@ -44,7 +44,8 @@ Workflow for the project
 3. CI pipeline triggered
 4. Tests executed automatically
 
-
+Project Architecture:
+Developer → Git Bash → GitHub Repository → GitHub Actions → Automated Testing
 
 
 
