@@ -1,5 +1,5 @@
 Tittle:
-CI/CD Pipeline for Python Application
+Automated Software Workflow Using DevOps Tools
 
 \## Project Introduction
 
